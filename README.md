@@ -1,2 +1,2 @@
-# hexlet-my-first-workflow
-for hexlet CI course
+hexlet-my-first-workflow
+
